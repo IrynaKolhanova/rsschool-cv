@@ -5,7 +5,7 @@
 * email: iryna.kolhanova@gmail.com
 
 ## Front-End Developer
-\ Self-motivated, competent 'HTML Programmer' seeking a challenging position within IT company to use my programming expertise in delivering visually appealing and interactive web applications within given time constraints.
+Self-motivated, competent 'HTML Programmer' seeking a challenging position within IT company to use my programming expertise in delivering visually appealing and interactive web applications within given time constraints.
 
 ## Skils
 **tech skills:**
@@ -40,7 +40,7 @@ Septermber 2009 - June 2014 - Ukraine
 2019 - Online course “The Fundamentals of Software Testing” in QATestLab Training Center.
 
 ## Latest code example
-\\\
+    
 const newTodo = document.querySelector('new-todo');
 const addTodoBts = document.querySelector('add-todo');
 const todoList = document.querySelector('todo-list');
@@ -73,7 +73,7 @@ function addNewTodo() {
         newTodo.value = '';
      }
 }
-\\\
+    
 
 ## English
 Intermediate

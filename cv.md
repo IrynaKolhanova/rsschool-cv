@@ -20,7 +20,7 @@ Self-motivated, competent 'HTML Programmer' seeking a challenging position withi
 4) Developing the UI layout and front-end programming for a web application that matched requirements.
 5) Creating a responsive single page web application with a different module like a dashboard, notification, application alert for user interface.
 
-## Work experience _curent job_
+## Work experience 
 **Junior QA Tester** Freelance
 May 2019 - up to now - Ukraine
 * Creating and executing test cases;
@@ -40,27 +40,26 @@ Septermber 2009 - June 2014 - Ukraine
 2019 - Online course “The Fundamentals of Software Testing” in QATestLab Training Center.
 
 ## Latest code example
-    
-const newTodo = document.querySelector('new-todo');
-const addTodoBts = document.querySelector('add-todo');
-const todoList = document.querySelector('todo-list');
+    const newTodo = document.querySelector('new-todo');
+    const addTodoBts = document.querySelector('add-todo');
+    const todoList = document.querySelector('todo-list');
 
-addTodoBts.addEventListener('click', addNewTodo);
+    addTodoBts.addEventListener('click', addNewTodo);
 
-todoList.addEventListener('click', (event) => {
+    todoList.addEventListener('click', (event) => {
     const target = event.target;
     if (target.classList.contains('todo-item-remove-btn')) {
         target.parentElement.remove();
     }
-});
+    });
 
-newTodo.addEventListener(onkeydown, (event)=> {
+    newTodo.addEventListener(onkeydown, (event)=> {
     if (event.key === 'Enter') {
         addNewTodo()
     }
-})
+    })
 
-function addNewTodo() {
+    function addNewTodo() {
     if (newTodo.value) {
         const todoItem = document.createElement('li');
         todoItem.classList.add('todo-item');
@@ -72,8 +71,7 @@ function addNewTodo() {
         todoList.appendChild(todoItem);
         newTodo.value = '';
      }
-}
-    
+    }
 
 ## English
 Intermediate

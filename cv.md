@@ -33,12 +33,12 @@ May 2019 - up to now - Ukraine
 
 ## Education 
 V. N. Karazin Kharkiv National University (The School of Sociology)
-Master’s degree in management sociology and social work.
-Septermber 2009 - June 2014 - Ukraine 
+\Master’s degree in management sociology and social work.
+\Septermber 2009 - June 2014 - Ukraine 
 
 ## Certification
 2020 - Online courses “The Fundamentals of Web UI development”, “The Fundamentals of Software Testing”, “The basics of Python programming” in Prometheus. 
-2019 - Online course “The Fundamentals of Software Testing” in QATestLab Training Center.
+\2019 - Online course “The Fundamentals of Software Testing” in QATestLab Training Center.
 
 ## Latest code example
     const newTodo = document.querySelector('new-todo');

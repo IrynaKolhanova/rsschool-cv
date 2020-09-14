@@ -15,11 +15,11 @@ Self-motivated, competent 'HTML Programmer' seeking a challenging position withi
 * Scrum, Agile, Teamwork, GTD
 
 ## Description projects:
-1) Developed and designed a dynamic responsive website for leisure living and its subsequent businesses.
-2) Using Javascript events to manipulate the elements depending on the user interactions.
-3) Working as a Junior Web Developer and participating in coding, testing, debugging new applications and website with the team of designers, developers, and content creators to create digital tools.
-4) Developing the UI layout and front-end programming for a web application that matched requirements.
-5) Creating a responsive single page web application with a different module like a dashboard, notification, application alert for user interface.
+1. Developed and designed a dynamic responsive website for leisure living and its subsequent businesses.
+2. Using Javascript events to manipulate the elements depending on the user interactions.
+3. Working as a Junior Web Developer and participating in coding, testing, debugging new applications and website with the team of designers, developers, and content creators to create digital tools.
+4. Developing the UI layout and front-end programming for a web application that matched requirements.
+5. Creating a responsive single page web application with a different module like a dashboard, notification, application alert for user interface.
 
 ## Work experience 
 **Junior QA Tester** Freelance
@@ -32,13 +32,11 @@ May 2019 - up to now - Ukraine
 * Running functionality, usability, GUI testing , API - testing, cross-browser testing of web-based applications.
 
 ## Education 
-V. N. Karazin Kharkiv National University (The School of Sociology)
-\ Master’s degree in management sociology and social work.
-\ Septermber 2009 - June 2014 - Ukraine 
+V. N. Karazin Kharkiv National University (The School of Sociology) - Master’s degree in management sociology and social work. - Septermber 2009 - June 2014 - Ukraine 
 
 ## Certification
-2020 - Online courses “The Fundamentals of Web UI development”, “The Fundamentals of Software Testing”, “The basics of Python programming” in Prometheus. 
-\ 2019 - Online course “The Fundamentals of Software Testing” in QATestLab Training Center.
+* 2020 - Online courses “The Fundamentals of Web UI development”, “The Fundamentals of Software Testing”, “The basics of Python programming” in Prometheus.
+* 2019 - Online course “The Fundamentals of Software Testing” in QATestLab Training Center.
 
 ## Latest code example
     const newTodo = document.querySelector('new-todo');

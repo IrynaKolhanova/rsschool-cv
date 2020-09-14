@@ -10,6 +10,7 @@ Self-motivated, competent 'HTML Programmer' seeking a challenging position withi
 ## Skils
 **tech skills:**
 * HTML, CSS, JavaScript, Git & GitHub, Java, SQL.
+
 **soft skills:**
 * Scrum, Agile, Teamwork, GTD
 
